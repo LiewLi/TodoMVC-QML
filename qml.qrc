@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TodoCell.qml</file>
+        <file>TodoToolBar.qml</file>
+        <file>AddDialog.qml</file>
+        <file>TodoListView.qml</file>
+    </qresource>
+</RCC>
